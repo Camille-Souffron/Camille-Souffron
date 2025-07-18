@@ -1,5 +1,5 @@
 - 👋 Hi friends, I'm an economist specialising in **Macroeconomics/Macro-econometrics, Non-linear & Endogenous Dynamics, Ecological Econ, and Epistemology**. 
-- 🌱 I teach economics at **ENS Ulm** (Paris, where I also study alongside Paris School of Economics), the EPOG Master's programme, ESSEC and Cergy University, after being a research fellow at the Environmental Justice Program at Georgetown University (USA).
+- 🌱 I teach economics at **ENS Ulm** (Paris, where I also study alongside **Paris School of Economics**), the EPOG Master's programme, ESSEC and Cergy University, after being a research fellow at the Environmental Justice Program at Georgetown University (USA).
 - 📫 I’m looking to have **interdisciplinary** collaborations on those topics and more broadly, on the epistemology of modelling and on economics for our current polycrisis, so do not hesitate to reach me (biologists, philosophers, physicists...) :
 - camille.souffron[AT]ens.psl.eu
 - My website https://sites.google.com/view/camillesouffron
